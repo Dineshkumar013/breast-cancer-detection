@@ -1,0 +1,3 @@
+# breast-cancer-detection
+This python program uses Logistic regression to predict the Breast cancer Detection.The collective information is been given 
+as input based on that the algorithm will be resulting in Malignant or Benign....
