@@ -2,6 +2,41 @@
 This python program uses Logistic regression to predict the Breast cancer Detection.The collective information is been given 
 as input based on that the algorithm will be resulting in Malignant or Benign....
 
+the features are:
+Data columns (total 33 columns):
+id                         569 non-null int64
+diagnosis                  569 non-null object
+radius_mean                569 non-null float64
+texture_mean               569 non-null float64
+perimeter_mean             569 non-null float64
+area_mean                  569 non-null float64
+smoothness_mean            569 non-null float64
+compactness_mean           569 non-null float64
+concavity_mean             569 non-null float64
+concave points_mean        569 non-null float64
+symmetry_mean              569 non-null float64
+fractal_dimension_mean     569 non-null float64
+radius_se                  569 non-null float64
+texture_se                 569 non-null float64
+perimeter_se               569 non-null float64
+area_se                    569 non-null float64
+smoothness_se              569 non-null float64
+compactness_se             569 non-null float64
+concavity_se               569 non-null float64
+concave points_se          569 non-null float64
+symmetry_se                569 non-null float64
+fractal_dimension_se       569 non-null float64
+radius_worst               569 non-null float64
+texture_worst              569 non-null float64
+perimeter_worst            569 non-null float64
+area_worst                 569 non-null float64
+smoothness_worst           569 non-null float64
+compactness_worst          569 non-null float64
+concavity_worst            569 non-null float64
+concave points_worst       569 non-null float64
+symmetry_worst             569 non-null float64
+fractal_dimension_worst    569 non-null float64
+Unnamed: 32                0 non-null float64
 
 
 import the dataset and read it with pandas
